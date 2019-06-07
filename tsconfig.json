@@ -17,17 +17,17 @@
     "types" : ["node"]
   },
   "include": [
+    "*.ts",
     "app/**/*",
     "config/**/*",
-    "*.ts",
     "test/**/*.ts"
   ],
   "exclude": [
+    "**/*.d.ts",
+    "**/*.spec.ts",
     "app/public",
     "app/views",
-    "test/",
     "node_modules*",
-    "**/*.d.ts",
-    "**/*.spec.ts"
+    "test"
   ]
 }
