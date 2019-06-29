@@ -7,8 +7,6 @@
     "module": "commonjs",
     "newLine": "lf",
     "noFallthroughCasesInSwitch": true,
-    "noImplicitAny": true,
-    "noImplicitThis": true,
     "noUnusedLocals": true,
     "pretty": true,
     "skipLibCheck": true,
