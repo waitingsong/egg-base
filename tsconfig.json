@@ -11,8 +11,7 @@
     "pretty": true,
     "skipLibCheck": true,
     "strict": true, 
-    "target": "ES2018",
-    "types" : ["node"]
+    "target": "ES2018"
   },
   "include": [
     "*.ts",
